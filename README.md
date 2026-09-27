@@ -32,25 +32,34 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ## Stakeholders
 
-**INSTRUCTOR INTERVIEWS**
-Instructor A (Max Sklar [consented to using real name]) teaches technical material (taught Data Structures at NYU last semester) and has prepared lectures using brief notes, existing slides, and slides he created himself. He typically expands on his notes while speaking in class. They check student understanding through homework and quizzes.
+### Instructor Interviews
+
+#### Instructor A — Max Sklar (consented to using real name)
+
+Instructor A teaches technical material and has prepared lectures using brief notes, existing slides, and slides he created himself. He typically expands on his notes while speaking in class and checks student understanding through homework and quizzes.
+
 **Goals and needs**
-- Prepare lectures efficiently without having to build every slide from scratch.
+
+- Prepare lectures efficiently without building every slide from scratch.
 - Teach flexibly from notes, adding explanations as the class unfolds.
-- Share materials that help students review what was taught, rather than only the instructor's personal speaking notes.
-- Use diagrams when explaining technical relationships, such as how database tables relate to one another.
-- Find and organize relevant lectures when preparing material for a course.
+- Share materials that help students review what was taught.
+- Use diagrams to explain technical relationships, such as relationships between database tables.
+- Find and organize relevant lectures when preparing a course.
+
 **Problems and frustrations**
+
 - Creating slides takes time and is the most frustrating part of lecture preparation.
-- Reusing someone else's notes or slides can be difficult because they do not always fit the instructor's approach.
-- Preparation is sometimes uneven: a topic that seemed to need little preparation may require more explanation during class.
-- Students may expect shared instructor notes to serve as complete study notes, even though they were written as prompts for teaching.
-- Brief bullet-point slides generated from speech would not provide enough visual explanation for some of their technical lectures.
+- Someone else's notes or slides do not always fit his teaching approach.
+- Preparation can be uneven: a topic that seemed straightforward may need more explanation during class.
+- Students may expect his personal teaching notes to be complete study notes.
+- Brief generated bullet points do not provide enough visual explanation for some technical lectures.
+
 **Observations from the app session**
-- Instructor A found the interface intuitive and was able to create a project and lecture with little guidance.
-- A Google Drive import attempt failed, while importing a PowerPoint presentation succeeded.
-- The app generated slides quickly, but the short deck produced from a spoken technical explanation did not include the diagrams the instructor wanted.
-- Instructor A said they would not use those generated slides in a real class without revising them. They preferred typing material and using AI to help check it over, rather than relying primarily on voice transcription.
+
+- He found the interface intuitive and created a project and lecture with little guidance.
+- A Google Drive import attempt failed, while a PowerPoint import succeeded.
+- Slides generated quickly, but the short deck from his spoken explanation lacked the diagrams he wanted.
+- He would revise the generated slides before using them in class and preferred typing material over relying primarily on voice transcription.
 
 ## Product Vision Statement
 

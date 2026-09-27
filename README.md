@@ -61,6 +61,37 @@ Instructor A teaches technical material and has prepared lectures using brief no
 - Slides generated quickly, but the short deck from his spoken explanation lacked the diagrams he wanted.
 - He would revise the generated slides before using them in class and preferred typing material over relying primarily on voice transcription.
 
+### Student Interviews
+
+#### Student A — Ryan 
+
+Student A is a Chemistry major on the pre-med track. He regularly attends science-heavy lectures and uses lecture slides and personal notes to review course material. When studying, he often returns to lecture slides to review difficult concepts and uses outside resources when the slides alone are not enough to understand a topic.
+
+**Goals and needs**
+
+- Review important lecture concepts efficiently after class.
+- Use lecture slides together with personal notes to reinforce understanding.
+- Check whether they actually understand the material through practice problems or quizzes.
+- Identify concepts they do not fully understand.
+
+**Problems and frustrations**
+
+- Lecture slides sometimes contain only formulas or brief bullet points without enough explanation to understand the concept later.
+- It can be difficult to remember the professor's full explanation when reviewing slides after class.
+- Finding the relevant part of a recorded lecture can take a long time.
+- Reading through lecture slides can make material feel understandable even when the student cannot actually solve related problems.
+- Finding a specific concept in a long lecture deck can take time.
+
+
+**Observations from the app session**
+
+- He found the concise generated slides useful for quickly reviewing the main points of the lecture.
+- He used the exit-ticket quiz to check his understanding of the material.
+- After answering a question incorrectly, the quiz showed him the correct answer but did not provide an explanation of why it was correct.
+- He wanted to know why his answer was wrong rather than only seeing the correct answer.
+- He returned to the lecture deck and manually searched for the concept related to the incorrect question.
+- He wanted a more direct way to connect an incorrect quiz response to the relevant lecture material.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.

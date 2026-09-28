@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Isha Zaheer; username: izz04
-- Belle Mbaezuel; username: nonyembaezue
+- Belle Mbaezue; username: nonyembaezue
 - Sarah Toussaint; username: sarahtoussaint
 - Scott Kim; username: jk8308-jpg
 

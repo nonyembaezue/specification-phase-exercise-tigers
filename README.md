@@ -61,6 +61,32 @@ Instructor A teaches technical material and has prepared lectures using brief no
 - Slides generated quickly, but the short deck from his spoken explanation lacked the diagrams he wanted.
 - He would revise the generated slides before using them in class and preferred typing material over relying primarily on voice transcription.
 
+### Instructor B - Professor Z.
+
+Instructor B teaches parallel computing and has taught for more than 35 years. Much of his course material comes from his teaching experience and academic papers. Because hardware and software continually change, course material can vary significant between course editions. He adapts his lectures for undergraduate and graduate students, using more pictures with undergraduates to make complex concepts easier to absorb. He also typically uses presentation notes to expand on material during lectures.
+
+**Goals and needs**
+- Create digestible learning materials for advanced technical concepts.
+- Use sophisticated graphs and diagrams to illustrate data pipelines and other complex relationships.
+- Encourage active learning and participation from students.
+- Adapt slides as hardware, software, course editions, and student audiences change.
+- Help students understand the main ideas of a lecture rather than focusing only on what will appear on assessments.
+
+**Problems and frustrations**
+
+- Changes between course editions require him to revise outdated material.
+- Students may focus primarily on what will be tested rather than identifying the main ideas from lecture mayrtial.
+- Obtaining copyright permissions for educational diagrams can make it difficult to use certain visuals.
+- Receiving answers to checkpoint questions can be difficult during class.
+- Text-heavy slides are not sufficient for explaining some advanced technical concepts.
+
+**Observations from app session**
+
+- He found the app useful in generating a draft for lecture but questioned why he would use SlideMachine instead of aother GenAI tool.
+- He immediately noticed the lack of pictures and emphasized the importance of students seeing visual representations rather than simply reading text.
+- He observed that the app primarily transcribes audio and divides the information across slides. Although he found the transcription effective, he suggested that capturing hand gestures could potentially translate teaching actions into drawings or symbols.
+- He said he would use the exit-ticket quiz feature, although he anticipated that students may not respond positively to it.
+  
 ### Student Interviews
 
 #### Student A — Ryan 

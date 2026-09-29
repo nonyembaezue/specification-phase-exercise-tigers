@@ -61,7 +61,7 @@ Instructor A teaches technical material and has prepared lectures using brief no
 - Slides generated quickly, but the short deck from his spoken explanation lacked the diagrams he wanted.
 - He would revise the generated slides before using them in class and preferred typing material over relying primarily on voice transcription.
 
-### Instructor B - Professor Z.
+#### Instructor B - Professor Z.
 
 Instructor B teaches parallel computing and has taught for more than 35 years. Much of his course material comes from his teaching experience and academic papers. Because hardware and software continually change, course material can vary significant between course editions. He adapts his lectures for undergraduate and graduate students, using more pictures with undergraduates to make complex concepts easier to absorb. He also typically uses presentation notes to expand on material during lectures.
 

@@ -92,6 +92,36 @@ Student A is a Chemistry major on the pre-med track. He regularly attends scienc
 - He returned to the lecture deck and manually searched for the concept related to the incorrect question.
 - He wanted a more direct way to connect an incorrect quiz response to the relevant lecture material.
 
+#### Student B — Emily 
+
+Emily is a humantities major who uses notes, assigned readings and posted slides to review lectures and prepare written assignements. When she miss class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud 
+
+**Goals and needs**
+
+-Catch up on the main ideas and examples from a missed lecture.
+- Understand how an instructor connected examples to broader concepts.
+- Find a particular example when working on an assignment.
+- Check her understanding after reviewing lecture material.
+- See simple drawings or annotations that make examples easier to visualize.
+
+
+**Problems and frustrations**
+
+- In her other classes, posted slides may contain pictures or brief points without the discussion that gave them meaning.
+- Classmates’ notes may not capture the same examples or details the instructor emphasized.
+- The Slide Machine’s generated slide text was confusing in places; she needed to hear the spoken explanation to understand the enclosure example.
+- She had to scan through slides to find a specific example and wished she could search for a word instead.
+- The wording about the eyes and beak in the deck made the related quiz question confusing.
+
+
+**Observations from the app session**
+
+-Emily used slide 7, which summarizes the three reasons octopuses escape, to identify the lecture’s main points.
+- She found the generated text about the example confusing and used **Play deck aloud** to understand what had been said.
+- After scanning the slides for an example, she suggested a search bar for finding specific words.
+- She hesitated on the quiz question about which body part limits the opening because the deck mentioned both the eyes and the beak.
+- She said a simple “doodle” showing the octopus moving through a gap would help her understand the example.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.

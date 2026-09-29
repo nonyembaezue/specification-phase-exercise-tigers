@@ -153,7 +153,7 @@ Emily is a humanities major who uses notes, assigned readings, and posted slides
 
 ## Product Vision Statement
 
-The Slide Machine will help instructors turn spoken examples into reviewed visual explanations that remain with the lecture deck, so students can understand the ideas when studying later.
+The Slide Machine will let instructors add and approve visual explanations for generated slides, while helping students find and understand lecture material through deck search and quiz feedback linked to the relevant slide.
 
 ## User Requirements
 

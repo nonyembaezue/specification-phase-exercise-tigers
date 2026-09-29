@@ -68,19 +68,19 @@ Instructor A teaches technical material and has prepared lectures using brief no
 
 #### Instructor B — Professor Z.
 
-Instructor B teaches parallel computing and has taught for more than 35 years. Much of his course material comes from his teaching experience and academic papers. Because hardware and software continually change, course material can vary significantly between times the course is offered. He adapts his lectures for undergraduate and graduate students, using more pictures with undergraduates to make complex concepts easier to absorb. He also typically uses presentation notes to expand on material during lectures.
+Instructor B teaches parallel computing and has taught for more than 35 years. Much of his course material comes from his teaching experience and academic papers. Because hardware and software continually change, course material can vary significantly between course editions. He adapts his lectures for undergraduate and graduate students, using more pictures with undergraduates to make complex concepts easier to absorb. He also typically uses presentation notes to expand on material during lectures.
 
 **Goals and needs**
 
 - Create digestible learning materials for advanced technical concepts.
 - Use sophisticated graphs and diagrams to illustrate data pipelines and other complex relationships.
 - Encourage active learning and participation from students.
-- Adapt slides as hardware, software, course content, and student audiences change.
+- Adapt slides as hardware, software, course editions, and student audiences change.
 - Help students understand the main ideas of a lecture rather than focusing only on what will appear on assessments.
 
 **Problems and frustrations**
 
-- Changes between course offerings require him to revise outdated material.
+- Changes between course editions require him to revise outdated material.
 - Students may focus primarily on what will be tested rather than identifying the main ideas from lecture material.
 - Obtaining copyright permissions for educational diagrams can make it difficult to use certain visuals.
 - Receiving answers to checkpoint questions can be difficult during class.

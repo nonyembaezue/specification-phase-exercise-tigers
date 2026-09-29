@@ -19,12 +19,17 @@ A little exercise to get started with the specification phase of the software de
 - **Weakness — Seeding feedback:** Adding seed notes and seed material produced no visible result at the time, making it difficult to tell whether they had been applied.
 - **Weakness — Missed speech:** When the app did not recognize certain words or phrases, it sometimes left parts of the output blank.
 - **Weakness — Depth of slides:** The generated slides largely restated the spoken words without developing the explanation further.
-- **Gap — Diagrams:** The generated slides did not include diagrams for explanations that involved relationships between concepts or data.
+- **Gap — Visual explanation:** In the test lectures, generated slides did not include diagrams for concepts or examples that would benefit from a drawing.
 - **Weakness — Google Drive import:** An attempt to import a lecture through Google Drive could not open the file chooser; a subsequent attempt displayed an invalid developer key error.
 - **Strength — PowerPoint import:** Importing a PowerPoint presentation succeeded and brought in all 96 slides.
 - **Weakness — Imported slide appearance:** Some slides looked unusual after import, although it was unclear whether the cause was the app or the presentation export.
 - **Weakness — Lecture creation during import:** Repeated import attempts left two empty lectures in the project.
-- **Strength — Public lecture playback:** A lecture found through Discover could be opened and played back with its slides and recorded narration.
+- **Strength — Public lecture playback:** A lecture found through Discover could be opened and played back with its slides and audio narration.
+- **Strength — Deck narration:** When generated slide text was unclear, a student used **Play deck aloud** to help follow the example.
+- **Weakness — Finding an example:** A student had to scan through the deck to find a particular lecture example.
+- **Weakness — Quiz feedback:** After an incorrect answer, the exit-ticket quiz showed the correct answer but did not explain why it was correct.
+- **Weakness — Quiz wording:** A question about which part of an octopus limits the gap it can pass through was confusing because the deck mentioned both its eyes and beak.
+- **Gap — Quiz-to-deck connection:** After reviewing an incorrect answer, a student manually searched the deck for the related concept; the feedback did not take them to the relevant material.
 
 ## Prior Art & Originality
 
@@ -94,7 +99,7 @@ Student A is a Chemistry major on the pre-med track. He regularly attends scienc
 
 #### Student B — Emily 
 
-Emily is a humantities major who uses notes, assigned readings and posted slides to review lectures and prepare written assignements. When she miss class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud 
+Emily is a humanities major who uses notes, assigned readings, and posted slides to review lectures and prepare written assignments. When she misses class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud 
 
 **Goals and needs**
 
@@ -124,11 +129,42 @@ Emily is a humantities major who uses notes, assigned readings and posted slides
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+The Slide Machine will help instructors turn spoken examples into reviewed visual explanations that remain with the lecture deck, so students can understand the ideas when studying later.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
+## User Requirements
+
+### Instructors
+
+1. As an instructor, I want to mark a generated slide as needing more explanation so that I can review it before sharing the deck.
+2. As an instructor, I want to add a short explanation beside a slide so that students can understand a point that was only briefly summarized.
+3. As an instructor, I want to connect an example I discussed aloud to its slide so that students can find the example when studying later.
+4. As an instructor, I want to add a labeled drawing or diagram to an explanation so that I can show a relationship that bullet points do not convey.
+5. As an instructor, I want to edit or remove an explanation and its visual so that students do not see unclear or inaccurate material.
+6. As an instructor, I want to preview a slide and its explanation as a student would see them so that I can check whether they make sense together.
+7. As an instructor, I want to see which slides still need my review so that I do not overlook an unfinished explanation.
+8. As an instructor, I want to approve explanations individually before they appear in a shared deck so that I control what students receive.
+9. As an instructor, I want to connect each exit-ticket question to the slide that supports its answer so that students can revisit the relevant material.
+10. As an instructor, I want to correct or remove an incorrect question-to-slide connection so that quiz feedback does not direct students to the wrong place.
+11. As an instructor, I want to add an explanation for an incorrect quiz answer so that students learn why the correct answer is right.
+12. As an instructor, I want to preview the explanation and slide link that will appear in quiz feedback so that I can check them before publishing.
+13. As an instructor, I want to be warned when students cannot access a linked slide so that I can fix the deck's sharing settings or publish feedback without that link.
+
+### Students
+
+1. As a student, I want to search within a shared lecture deck for a term so that I can find a concept without scanning every slide.
+2. As a student, I want search results to take me to the matching slide so that I can review it immediately.
+3. As a student, I want to search for examples as well as slide titles so that I can find something the instructor discussed aloud.
+4. As a student, I want to read an instructor-reviewed explanation beside a brief slide so that I can understand the idea when studying on my own.
+5. As a student, I want to see a labeled drawing or diagram with its explanation so that I can visualize how the parts of an example relate.
+6. As a student, I want to know which explanation was added or approved by my instructor so that I can distinguish it from the slide's original summary.
+7. As a student, I want to move from an explanation back to its slide so that I can see it in the context of the lecture.
+8. As a student, I want feedback on an incorrect quiz answer to explain why the answer is correct so that I can learn from my mistake.
+9. As a student, I want quiz feedback to link to the exact relevant slide so that I do not have to search the whole deck.
+10. As a student, I want the linked slide to show its associated explanation and visual so that I can review the full idea in one place.
+11. As a student, I want useful written feedback even when a deck link is unavailable so that I am not left with only the correct answer.
+12. As a student, I want a text description of an explanatory diagram so that I can understand it if I cannot see the image clearly.
 
 ## Activity Diagrams
 
@@ -140,7 +176,7 @@ See instructions. Delete this line and place your wireframe diagrams here, cover
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+See instructions. Delete this line and place a publicly accessible link to your clickable prototype here.
 
 ## Stakeholder Demo
 

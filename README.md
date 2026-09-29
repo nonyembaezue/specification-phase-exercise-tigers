@@ -98,7 +98,7 @@ Emily is a humantities major who uses notes, assigned readings and posted slides
 
 **Goals and needs**
 
--Catch up on the main ideas and examples from a missed lecture.
+- Catch up on the main ideas and examples from a missed lecture.
 - Understand how an instructor connected examples to broader concepts.
 - Find a particular example when working on an assignment.
 - Check her understanding after reviewing lecture material.
@@ -116,7 +116,7 @@ Emily is a humantities major who uses notes, assigned readings and posted slides
 
 **Observations from the app session**
 
--Emily used slide 7, which summarizes the three reasons octopuses escape, to identify the lecture’s main points.
+- Emily used slide 7, which summarizes the three reasons octopuses escape, to identify the lecture’s main points.
 - She found the generated text about the example confusing and used **Play deck aloud** to understand what had been said.
 - After scanning the slides for an example, she suggested a search bar for finding specific words.
 - She hesitated on the quiz question about which body part limits the opening because the deck mentioned both the eyes and the beak.

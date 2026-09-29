@@ -216,7 +216,23 @@ The Slide Machine will let instructors add and approve visual explanations for g
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+The following wireframes illustrate the proposed interface changes and user flows for instructors and students.
+
+### Instructor Activity 1 — Add a Visual Explanation
+
+![Instructor Activity 1 Wireframe](images/instructor-activity-1.png)
+
+### Instructor Activity 2 — Link a Quiz Question
+
+![Instructor Activity 2 Wireframe](images/instructor-activity-2.png)
+
+### Student Activity 1 — Search a Shared Deck
+
+![Student Activity 1 Wireframe](images/student-activity-1.png)
+
+### Student Activity 2 — Review a Quiz Answer
+
+![Student Activity 2 Wireframe](images/student-activity-2.png)
 
 ## Clickable Prototype
 

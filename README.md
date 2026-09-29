@@ -1,13 +1,13 @@
 # Specification Phase Exercise
 
-A little exercise to get started with the specification phase of the software development lifecycle. In this exercise, your team specifies a set of improvements and new features for [The Slide Machine](https://theslidemachine.com) — see the [instructions](instructions.md) for detail, and the [background](background.md) for an introduction to the software product you are tasked with extending.
+A little exercise to get started with the specification phase of the software development lifecycle. In this exercise, your team specifies a set of improvements and new features for [The Slide Machine](https://theslidemachine.com) — see the [instructions](instructions.md) for details, and the [background](background.md) for an introduction to the software product you are tasked with extending.
 
 ## Team members
 
-- Isha Zaheer; username: izz04
-- Belle Mbaezue; username: nonyembaezue
-- Sarah Toussaint; username: sarahtoussaint
-- Scott Kim; username: jk8308-jpg
+- [Isha Zaheer](https://github.com/izz04)
+- [Belle Mbaezue](https://github.com/nonyembaezue)
+- [Sarah Toussaint](https://github.com/sarahtoussaint)
+- [Scott Kim](https://github.com/jk8308-jpg)
 
 
 ## Review of the Current Application
@@ -39,7 +39,7 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ### Instructor Interviews
 
-#### Instructor A — Max Sklar (consented to using real name)
+#### Instructor A — Max S
 
 Instructor A teaches technical material and has prepared lectures using brief notes, existing slides, and slides he created himself. He typically expands on his notes while speaking in class and checks student understanding through homework and quizzes.
 
@@ -66,37 +66,38 @@ Instructor A teaches technical material and has prepared lectures using brief no
 - Slides generated quickly, but the short deck from his spoken explanation lacked the diagrams he wanted.
 - He would revise the generated slides before using them in class and preferred typing material over relying primarily on voice transcription.
 
-#### Instructor B - Professor Z.
+#### Instructor B — Professor Z.
 
-Instructor B teaches parallel computing and has taught for more than 35 years. Much of his course material comes from his teaching experience and academic papers. Because hardware and software continually change, course material can vary significant between course editions. He adapts his lectures for undergraduate and graduate students, using more pictures with undergraduates to make complex concepts easier to absorb. He also typically uses presentation notes to expand on material during lectures.
+Instructor B teaches parallel computing and has taught for more than 35 years. Much of his course material comes from his teaching experience and academic papers. Because hardware and software continually change, course material can vary significantly between times the course is offered. He adapts his lectures for undergraduate and graduate students, using more pictures with undergraduates to make complex concepts easier to absorb. He also typically uses presentation notes to expand on material during lectures.
 
 **Goals and needs**
+
 - Create digestible learning materials for advanced technical concepts.
 - Use sophisticated graphs and diagrams to illustrate data pipelines and other complex relationships.
 - Encourage active learning and participation from students.
-- Adapt slides as hardware, software, course editions, and student audiences change.
+- Adapt slides as hardware, software, course content, and student audiences change.
 - Help students understand the main ideas of a lecture rather than focusing only on what will appear on assessments.
 
 **Problems and frustrations**
 
-- Changes between course editions require him to revise outdated material.
-- Students may focus primarily on what will be tested rather than identifying the main ideas from lecture mayrtial.
+- Changes between course offerings require him to revise outdated material.
+- Students may focus primarily on what will be tested rather than identifying the main ideas from lecture material.
 - Obtaining copyright permissions for educational diagrams can make it difficult to use certain visuals.
 - Receiving answers to checkpoint questions can be difficult during class.
 - Text-heavy slides are not sufficient for explaining some advanced technical concepts.
 
-**Observations from app session**
+**Observations from the app session**
 
-- He found the app useful in generating a draft for lecture but questioned why he would use SlideMachine instead of aother GenAI tool.
+- He found the app useful in generating a draft for a lecture but questioned why he would use The Slide Machine instead of another GenAI tool.
 - He immediately noticed the lack of pictures and emphasized the importance of students seeing visual representations rather than simply reading text.
 - He observed that the app primarily transcribes audio and divides the information across slides. Although he found the transcription effective, he suggested that capturing hand gestures could potentially translate teaching actions into drawings or symbols.
 - He said he would use the exit-ticket quiz feature, although he anticipated that students may not respond positively to it.
-  
+
 ### Student Interviews
 
-#### Student A — Ryan 
+#### Student A — Ryan
 
-Student A is a Chemistry major on the pre-med track. He regularly attends science-heavy lectures and uses lecture slides and personal notes to review course material. When studying, he often returns to lecture slides to review difficult concepts and uses outside resources when the slides alone are not enough to understand a topic.
+Student A is a chemistry major on the pre-med track. He regularly attends science-heavy lectures and uses lecture slides and personal notes to review course material. When studying, he often returns to lecture slides to review difficult concepts and uses outside resources when the slides alone are not enough to understand a topic.
 
 **Goals and needs**
 
@@ -113,19 +114,18 @@ Student A is a Chemistry major on the pre-med track. He regularly attends scienc
 - Reading through lecture slides can make material feel understandable even when the student cannot actually solve related problems.
 - Finding a specific concept in a long lecture deck can take time.
 
-
 **Observations from the app session**
 
 - He found the concise generated slides useful for quickly reviewing the main points of the lecture.
 - He used the exit-ticket quiz to check his understanding of the material.
-- After answering a question incorrectly, the quiz showed him the correct answer but did not provide an explanation of why it was correct.
+- After answering a question incorrectly, the quiz showed him the correct answer but did not explain why it was correct.
 - He wanted to know why his answer was wrong rather than only seeing the correct answer.
 - He returned to the lecture deck and manually searched for the concept related to the incorrect question.
 - He wanted a more direct way to connect an incorrect quiz response to the relevant lecture material.
 
-#### Student B — Emily 
+#### Student B — Emily
 
-Emily is a humanities major who uses notes, assigned readings, and posted slides to review lectures and prepare written assignments. When she misses class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud 
+Emily is a humanities major who uses notes, assigned readings, and posted slides to review lectures and prepare written assignments. When she misses class, she relies on those materials and classmates' notes to learn what was discussed. She particularly wants to understand the examples and connections the instructor explained aloud.
 
 **Goals and needs**
 
@@ -135,7 +135,6 @@ Emily is a humanities major who uses notes, assigned readings, and posted slides
 - Check her understanding after reviewing lecture material.
 - See simple drawings or annotations that make examples easier to visualize.
 
-
 **Problems and frustrations**
 
 - In her other classes, posted slides may contain pictures or brief points without the discussion that gave them meaning.
@@ -143,7 +142,6 @@ Emily is a humanities major who uses notes, assigned readings, and posted slides
 - The Slide Machine’s generated slide text was confusing in places; she needed to hear the spoken explanation to understand the enclosure example.
 - She had to scan through slides to find a specific example and wished she could search for a word instead.
 - The wording about the eyes and beak in the deck made the related quiz question confusing.
-
 
 **Observations from the app session**
 
@@ -156,8 +154,6 @@ Emily is a humanities major who uses notes, assigned readings, and posted slides
 ## Product Vision Statement
 
 The Slide Machine will help instructors turn spoken examples into reviewed visual explanations that remain with the lecture deck, so students can understand the ideas when studying later.
-
-## User Requirements
 
 ## User Requirements
 

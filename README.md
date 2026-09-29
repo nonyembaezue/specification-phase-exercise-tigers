@@ -190,7 +190,29 @@ The Slide Machine will let instructors add and approve visual explanations for g
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+### Instructor — Add a visual explanation
+
+**User story:** As an instructor, I want to add a labeled drawing or diagram to an explanation so that I can show a relationship that bullet points do not convey.
+
+![Instructor activity diagram for adding a visual explanation](uml_diagrams/instructor_visual_explanation.png)
+
+### Instructor — Connect a quiz question to a slide
+
+**User story:** As an instructor, I want to connect each exit-ticket question to the slide that supports its answer so that students can revisit the relevant material.
+
+![Instructor activity diagram for connecting a quiz question to a slide](uml_diagrams/instructor_quiz_link.png)
+
+### Student — Search a lecture deck
+
+**User story:** As a student, I want to search within a shared lecture deck for a term so that I can find a concept without scanning every slide.
+
+![Student activity diagram for searching a lecture deck](uml_diagrams/student_deck_search.png)
+
+### Student — Review a slide from quiz feedback
+
+**User story:** As a student, I want quiz feedback to link to the exact relevant slide so that I do not have to search the whole deck.
+
+![Student activity diagram for opening a slide from quiz feedback](uml_diagrams/student_quiz_to_slide.png)
 
 ## Wireframes
 

@@ -263,4 +263,4 @@ The following prototypes illustrate the proposed interactions between the system
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+[https://docs.google.com/forms/d/e/1FAIpQLSf0zpAHK1gaTHNV1Lx-qvzxoL3wuB_jp6jCQee2hMZ_bC_F7w/viewform]

@@ -256,9 +256,10 @@ The following prototypes illustrate the proposed interactions between the system
 ### Student Activity 2 — Review a Quiz Answer
 
 [https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=3-4&t=3tIYju2zjQIc3zKu-1&scaling=min-zoom&content-scaling=fixed&page-id=16%3A2&starting-point-node-id=3%3A10]
+
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+[https://theslidemachine.com/d/project1-slide-machine-cbb8efde]
 
 ## Exit Ticket
 

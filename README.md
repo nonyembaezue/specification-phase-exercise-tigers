@@ -236,7 +236,16 @@ The following wireframes illustrate the proposed interface changes and user flow
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly accessible link to your clickable prototype here.
+The following prototypes illustrate the proposed workflows in action for instructors and students. 
+
+### Instructor Activity 1 - Add a Visual Explanation 
+
+![https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=22-5&t=2nk7cB8BnAfBLqRb-1&scaling=min-zoom&content-scaling=fixed&page-id=14%3A24&starting-point-node-id=72%3A10]
+
+### Instructor Activity 2 - Link a Quiz Question 
+
+![https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=3-10&p=f&t=QBQlCKpNGI3PaMgq-1&scaling=min-zoom&content-scaling=fixed&page-id=16%3A2&starting-point-node-id=3%3A10]
+
 
 ## Stakeholder Demo
 

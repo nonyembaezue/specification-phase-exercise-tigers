@@ -236,26 +236,31 @@ The following wireframes illustrate the proposed interface changes and user flow
 
 ## Clickable Prototype
 
-The following prototypes illustrate the proposed interactions between the system and the types of users. 
+The following prototypes demonstrate the proposed instructor and student workflows.
 
-### Instructor Activity 1 - Add a Visual Explanation 
-- Demonstrating how an instructor adds a labeled diagram to a lecture slide
+### Instructor Activity 1 — Add a Visual Explanation
 
-[https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=22-5&t=dDWeJitFipAyDQln-1&scaling=min-zoom&content-scaling=fixed&page-id=14%3A24&starting-point-node-id=72%3A10]
+Demonstrates how an instructor adds a labeled diagram to a lecture slide.
 
-### Instructor Activity 2 - Link a Quiz Question 
-- Demonstrating how an instructor reviews and links AI-generated exit-tickets back to slides.
+[Open instructor visual explanation prototype](https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=22-5&t=dDWeJitFipAyDQln-1&scaling=min-zoom&content-scaling=fixed&page-id=14%3A24&starting-point-node-id=72%3A10)
 
-[https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=16-5&t=6lllTJl35SWKuFYq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=99%3A1355]
+### Instructor Activity 2 — Link a Quiz Question
 
-### Student Activity 1 - Search a Shared Deck 
-- Demonstrating how a student searches within a shared lecture deck for a specific term.
+Demonstrates how an instructor reviews generated exit-ticket questions and links them to supporting slides.
 
-[https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=31-4&t=TpjHj6ELRoEDE9l7-1&scaling=min-zoom&content-scaling=fixed&page-id=24%3A2&starting-point-node-id=99%3A1030]
+[Open instructor quiz-linking prototype](https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=16-5&t=6lllTJl35SWKuFYq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=99%3A1355)
+
+### Student Activity 1 — Search a Shared Deck
+
+Demonstrates how a student searches within a shared lecture deck for a specific term.
+
+[Open student deck-search prototype](https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=31-4&t=TpjHj6ELRoEDE9l7-1&scaling=min-zoom&content-scaling=fixed&page-id=24%3A2&starting-point-node-id=99%3A1030)
 
 ### Student Activity 2 — Review a Quiz Answer
 
-[https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=3-4&t=3tIYju2zjQIc3zKu-1&scaling=min-zoom&content-scaling=fixed&page-id=16%3A2&starting-point-node-id=3%3A10]
+Demonstrates how a student reviews quiz feedback and opens the supporting lecture slide.
+
+[Open student quiz-feedback prototype](https://www.figma.com/proto/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=3-4&t=3tIYju2zjQIc3zKu-1&scaling=min-zoom&content-scaling=fixed&page-id=16%3A2&starting-point-node-id=3%3A10)
 
 ## Stakeholder Demo
 

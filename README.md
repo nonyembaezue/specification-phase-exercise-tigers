@@ -235,8 +235,7 @@ The following wireframes illustrate the proposed interface changes and user flow
 ![Student Activity 2 Wireframe](images/student-activity-2.png)
 
 ## Clickable Prototype
-
-See instructions. Delete this line and place a publicly accessible link to your clickable prototype here.
+https://www.figma.com/design/1m1J4ELg8O0uCFGxK6Uq5M/SWE-Tigers-Wireframes?node-id=16-2&p=f&t=gSC2F6VDs1yoSds1-0)
 
 ## Stakeholder Demo
 

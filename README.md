@@ -259,8 +259,10 @@ The following prototypes illustrate the proposed interactions between the system
 
 ## Stakeholder Demo
 
-[https://theslidemachine.com/d/project1-slide-machine-cbb8efde]
+[View our presentation deck](https://theslidemachine.com/d/project1-slide-machine-cbb8efde)
 
 ## Exit Ticket
 
-[https://docs.google.com/forms/d/e/1FAIpQLSf0zpAHK1gaTHNV1Lx-qvzxoL3wuB_jp6jCQee2hMZ_bC_F7w/viewform]
+[Complete our exit-ticket quiz](https://docs.google.com/forms/d/e/1FAIpQLSf0zpAHK1gaTHNV1Lx-qvzxoL3wuB_jp6jCQee2hMZ_bC_F7w/viewform)
+
+Corrections before publishing: We revised most of the generated questions to make their wording clearer and more intuitive, and to better align them with the material covered in our presentation deck.
